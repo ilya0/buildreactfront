@@ -1,4 +1,5 @@
 # buildreactfront
+## This is a repo to learn React
+I am currently trying to build application with a react front end
 
-
-gonna try to learn this react stuff to build a app
+[Scotch.io react link] https://scotch.io/tutorials/learning-react-getting-started-and-concepts
